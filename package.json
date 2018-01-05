@@ -1,5 +1,7 @@
 {
   "name": "TEST_P_DEP",
   "version": "1.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "aws-sdk": "2.176.0"
+  }
 }
